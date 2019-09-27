@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+}
+
+body img{
+    width: 100%;
+}
+
+body h1{
+    margin-top: 5%;
+    text-align: center;
+}
+
+body #main{
+    width: 1124px;
+    margin: 0 auto;
+}
+
+body p{
+    margin: 5%
+}

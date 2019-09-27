@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="utf-8" />
+    <title>Page Title</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" media="screen" href="css/style.css" />
+    <!-- <script src="main.js"></script> -->
+</head>
+<body>
+    <header class="cabecalho">
+        <section class="row">
+            <section class="column icon">
+                <img src="imagens/Vingadores-LOGO.png" alt="">
+            </section>
+        </section>
+        <section class="row-nav row">
+            <section class="column nav">
+                <nav>
+                    <ul>
+                        <li><a href="#">home</a></li>
+                        <li><a href="#">about</a></li>
+                        <li><a href="#">login</a></li>
+                    </ul>
+                </nav>
+            </section>
+        </section>
+    </header>
+    <main class="container">
+        <section class="column banner">
+            <img src="imagens/banner2.png" alt="">
+        </section>
+        <section class="row-txt">
+            <section class="column logo">
+                <img src="imagens/Vingadores-LOGO.png" alt="">
+            </section>
+            <section class="column texto">
+                <h1>Vingadores</h1>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus sit perspiciatis ut dignissimos laudantium corrupti cupiditate minus consequuntur mollitia sapiente, minima temporibus nostrum dolor natus vel, nemo vero in cum. Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus sit perspiciatis ut dignissimos laudantium corrupti cupiditate minus consequuntur mollitia sapiente.</p>
+            </section>
+        </section>
+        <section class="row-imgs">
+            <section class="column img">
+                <section class="column-img  banner2 myBtn">
+                    <img src="imagens/vingadores.png" alt="">
+                    <h2>Os Vingadores</h2>
+                </section>
+                <section class="column-img myBtn2">
+                    <img src="imagens/vingadores3.png" alt="">
+                    <h2>Os Vingadores 2</h2>
+                </section>
+            </section>
+            <section class="column img2">
+                <section class="column-img  banner2 myBtn4">
+                    <img src="imagens/vingadores.png" alt="">
+                    <h2>Os Vingadores 4</h2>
+                </section>
+                <section class="column-img myBtn3">
+                    <img src="imagens/vingadores3.png" alt="">
+                    <h2>Os Vingadores 3</h2>
+                </section>
+            </section>
+        </section>
+    </main>
+    <footer class="rodape">
+        <section class="column rodap">
+            <p>Todos os direitos garantidos</p>
+        </section>
+    </footer>
+
+    <!-- comeco container modal -->
+    <div id="myModal" class="modal">
+        <!-- Modal content -->
+        <div class="modal-content">
+            <span class="close"></span>
+            <video src="videos/vingadores1.mp4" controls></video>
+        </div>
+    </div>
+
+    <!-- comeco container2 modal -->
+    <div id="myModal2" class="modal">
+        <!-- Modal content -->
+        <div class="modal-content">
+            <span class="close"></span>
+            <video src="videos/vingadores2.mp4" controls></video>
+        </div>
+    </div>
+
+        <!-- comeco container modal -->
+    <div id="myModal3" class="modal">
+        <!-- Modal content -->
+        <div class="modal-content">
+            <span class="close"></span>
+            <video src="videos/vingadores3.mp4" controls></video>
+        </div>
+    </div>
+
+    <!-- comeco container modal -->
+    <div id="myModal4" class="modal">
+        <!-- Modal content -->
+        <div class="modal-content">
+            <span class="close"></span>
+            <video src="videos/vingadores4.mp4" controls ></video>
+        </div>
+    </div>
+
+
+    <!-- fim container modal -->
+    <!-- script do modal -->
+    <script>
+        // Get the modal
+        var modal = document.getElementById('myModal');
+        var modal2 = document.getElementById('myModal2');
+        var modal3 = document.getElementById('myModal3');
+        var modal4 = document.getElementById('myModal4');
+
+
+        // Get the button that opens the modal
+        var btn = document.getElementsByClassName("myBtn")[0];
+        var btn2 = document.getElementsByClassName("myBtn2")[0];
+        var btn3 = document.getElementsByClassName("myBtn3")[0];
+        var btn4 = document.getElementsByClassName("myBtn4")[0];
+
+        // Get the <span> element that closes the modal
+        var span = document.getElementsByClassName("close")[0];
+
+
+        // When the user clicks the button, open the modal 
+        btn.onclick = function () {
+            modal.style.display = "block";
+        }
+        btn2.onclick = function () {
+            modal2.style.display = "block";
+        }
+        btn3.onclick = function () {
+            modal3.style.display = "block";
+        }
+        btn4.onclick = function () {
+            modal4.style.display = "block";
+        }
+
+        // When the user clicks on <span> (x), close the modal
+        span.onclick = function () {
+            modal.style.display = "none";
+            modal2.style.display = "none";
+            modal3.style.display = "none";
+            modal4.style.display = "none";
+        }
+
+        // When the user clicks anywhere outside of the modal, close it
+        window.onclick = function (event) {
+            if (event.target == modal || event.target == modal2 || event.target == modal3 || event.target == modal4) {
+                modal.style.display = "none";
+                modal2.style.display = "none";
+                modal3.style.display = "none";
+                modal4.style.display = "none";
+            }
+        }
+    </script>
+    <!-- fim do script modal -->
+</body>
+</html>

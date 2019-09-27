@@ -1,0 +1,98 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.cabecalho{
+    background-color: #DCDCDC;
+    padding: 15px;
+}
+
+.navbar{
+    display: flex;
+    flex-direction: row; 
+    justify-content: space-around;
+    align-items: center;
+}
+
+.navegacao ul{
+    display: flex;
+    /* padding: 5px; */
+    list-style-type: none;
+}
+
+.navegacao li a{
+    padding: 5px 8px;;
+    text-transform: uppercase;
+    text-decoration: none;
+    color: black;
+}
+
+/* *************************** */
+
+.container{
+    width: 80%;
+    margin: 0 auto;
+}
+
+.banner img{
+    width: 100%;
+}
+
+.conteudo{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.conteudo img{
+    width: 40%;
+}
+
+.conteudo .img1{
+    display: flex;
+    padding: 5%;
+}
+
+.conteudo .text{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    text-align: center;
+}
+
+.conteudo .text p{
+    width: 82%;
+    margin-bottom: 5%;
+    line-height:30px;
+}
+
+.conteudo .img2{
+    display: flex;
+    flex-direction: row-reverse;
+
+    padding: 5%;
+}
+
+.conteudo .img1 button, .conteudo .img2 button{
+    width: 120px;
+    padding: 10px 20px;
+    background-color: white;
+    border: 2px solid purple;
+    border-radius: 5px;
+    color: purple;
+    font-size: 15px;
+    text-transform: capitalize
+}
+
+/* ************************** */
+
+.rodape{
+    display: flex;
+    justify-content: flex-end;
+
+    padding: 2% 5%;
+    background-color: rgb(199, 187, 198);
+}

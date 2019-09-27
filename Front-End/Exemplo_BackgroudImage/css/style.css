@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.topo{
+    background-color: #0095CB;
+    height: 100px;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.topo img{
+    height: 80%;
+}
+
+.banner{
+    background: url('../imagens/banner.jpg') bottom;
+    background-size: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 500px;
+}
+
+.banner h1{
+    text-transform: uppercase;
+    color: white;
+    font-size: 120px;
+    text-align: center;
+}

@@ -1,0 +1,192 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.row img{
+    width: 50px;
+}
+
+.row-nav nav li, .row-nav nav a{
+    list-style-type: none;
+    text-decoration: none;
+    color: rgb(134, 133, 133);
+}
+
+.row-nav nav li{
+    padding: 10px 25px;
+    text-transform: uppercase;
+}
+
+.cabecalho {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-bottom: 1px solid black;
+    background-color: white;
+}
+
+.row-nav nav ul{
+    display: flex;
+    justify-content: space-around;
+}
+/* *********************************************** */
+
+body{
+    background-color: rgb(228, 227, 227);
+}
+
+.container{
+   width: 65%;
+   margin: 0 auto;
+   background-color: white
+}
+
+.container .banner img{
+    width: 100%;
+}
+
+.row-txt .logo img{
+    width: 100%;
+}
+
+.row-txt{
+    padding: 10px;
+
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+}
+
+.texto{
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    padding: 25px;
+}
+
+.texto h1{
+    padding: 15px;
+    font-size: 30px;
+    color: rgb(158, 156, 156);
+}
+
+.texto p{
+    text-align: justify;
+    color: rgb(109, 107, 107);
+}
+
+.texto p{
+    display: flex;
+    justify-content: center;
+}
+
+/* ******************* */
+
+.row-imgs .img{
+    display: flex;
+    flex-direction: row;
+}
+
+.row-imgs .img2{
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+.row-imgs .banner2 img{
+    padding: 0% 2% 0% 0%;
+    box-sizing: border-box;
+}
+
+.row-imgs .img2 .banner2 img{
+    padding: 0% 0% 0% 2%;
+    box-sizing: border-box;
+}
+
+.row-imgs .column-img{
+    width: 50%;
+    margin: 3% 0%;
+    text-align: center;
+}
+
+.row-imgs .column-img img{
+    width: 100%;
+}
+
+/* ********************************************** */
+
+.rodape{
+    background-color: rgb(157, 155, 155);
+    padding: 10px;
+    font-weight: bold;
+
+    display: flex;
+    justify-content: center;
+}
+
+/* comeco modal */
+.modal {
+    display: none;
+    position: fixed;
+    z-index: 1;
+    padding-top: 100px;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: rgba(0,0,0,0.7);
+  }
+
+.modal-content {
+    position: relative;
+    margin: auto;
+    padding: 0;
+    border: 1px solid;
+    width: 55%;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);
+    -webkit-animation-name: animatetop;
+    -webkit-animation-duration: 0.4s;
+    animation-name: animatetop;
+    animation-duration: 0.4s;
+    background-color: black;
+}
+
+/* Add Animation */
+@-webkit-keyframes animatetop {
+    from {top:-300px; opacity:0} 
+    to {top:0; opacity:1}
+}
+
+@keyframes animatetop {
+    from {top:-300px; opacity:0}
+    to {top:0; opacity:1}
+}
+
+.close {
+    color: white;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.close:hover, .close:focus {
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.modal-content video{
+    width: 100%;
+    height: 445px;
+}
+
+#span1{
+    width: 135px;
+}
+
+#span1:hover{
+    background-color: #009D71;   
+}
