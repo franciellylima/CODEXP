@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\SENAI\C#\Calculadora de Tabuada\bin\Debug\netcoreapp2.2\Calculadora de Tabuada.deps.json
+C:\Users\fic\Desktop\SENAI\C#\Calculadora de Tabuada\bin\Debug\netcoreapp2.2\Calculadora de Tabuada.runtimeconfig.json
+C:\Users\fic\Desktop\SENAI\C#\Calculadora de Tabuada\bin\Debug\netcoreapp2.2\Calculadora de Tabuada.runtimeconfig.dev.json
+C:\Users\fic\Desktop\SENAI\C#\Calculadora de Tabuada\bin\Debug\netcoreapp2.2\Calculadora de Tabuada.dll
+C:\Users\fic\Desktop\SENAI\C#\Calculadora de Tabuada\bin\Debug\netcoreapp2.2\Calculadora de Tabuada.pdb
+C:\Users\fic\Desktop\SENAI\C#\Calculadora de Tabuada\obj\Debug\netcoreapp2.2\Calculadora de Tabuada.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\SENAI\C#\Calculadora de Tabuada\obj\Debug\netcoreapp2.2\Calculadora de Tabuada.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\SENAI\C#\Calculadora de Tabuada\obj\Debug\netcoreapp2.2\Calculadora de Tabuada.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\SENAI\C#\Calculadora de Tabuada\obj\Debug\netcoreapp2.2\Calculadora de Tabuada.AssemblyInfo.cs
+C:\Users\fic\Desktop\SENAI\C#\Calculadora de Tabuada\obj\Debug\netcoreapp2.2\Calculadora de Tabuada.dll
+C:\Users\fic\Desktop\SENAI\C#\Calculadora de Tabuada\obj\Debug\netcoreapp2.2\Calculadora de Tabuada.pdb

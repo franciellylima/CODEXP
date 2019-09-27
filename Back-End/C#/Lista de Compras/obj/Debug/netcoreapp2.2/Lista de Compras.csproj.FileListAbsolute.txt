@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\SENAI\C#\Lista de Compras\bin\Debug\netcoreapp2.2\Lista de Compras.deps.json
+C:\Users\fic\Desktop\SENAI\C#\Lista de Compras\bin\Debug\netcoreapp2.2\Lista de Compras.runtimeconfig.json
+C:\Users\fic\Desktop\SENAI\C#\Lista de Compras\bin\Debug\netcoreapp2.2\Lista de Compras.runtimeconfig.dev.json
+C:\Users\fic\Desktop\SENAI\C#\Lista de Compras\bin\Debug\netcoreapp2.2\Lista de Compras.dll
+C:\Users\fic\Desktop\SENAI\C#\Lista de Compras\bin\Debug\netcoreapp2.2\Lista de Compras.pdb
+C:\Users\fic\Desktop\SENAI\C#\Lista de Compras\obj\Debug\netcoreapp2.2\Lista de Compras.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\SENAI\C#\Lista de Compras\obj\Debug\netcoreapp2.2\Lista de Compras.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\SENAI\C#\Lista de Compras\obj\Debug\netcoreapp2.2\Lista de Compras.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\SENAI\C#\Lista de Compras\obj\Debug\netcoreapp2.2\Lista de Compras.AssemblyInfo.cs
+C:\Users\fic\Desktop\SENAI\C#\Lista de Compras\obj\Debug\netcoreapp2.2\Lista de Compras.dll
+C:\Users\fic\Desktop\SENAI\C#\Lista de Compras\obj\Debug\netcoreapp2.2\Lista de Compras.pdb

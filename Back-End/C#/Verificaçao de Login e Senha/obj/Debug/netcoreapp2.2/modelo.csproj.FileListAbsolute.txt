@@ -1,0 +1,33 @@
+C:\Users\fic\Desktop\GitHub\BackEnd - GitHub\CODE-XP---BackEnd\FaçaEnquanto\modelo\obj\Debug\netcoreapp2.2\modelo.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\GitHub\BackEnd - GitHub\CODE-XP---BackEnd\FaçaEnquanto\modelo\obj\Debug\netcoreapp2.2\modelo.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\GitHub\BackEnd - GitHub\CODE-XP---BackEnd\FaçaEnquanto\modelo\obj\Debug\netcoreapp2.2\modelo.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\GitHub\BackEnd - GitHub\CODE-XP---BackEnd\FaçaEnquanto\modelo\obj\Debug\netcoreapp2.2\modelo.AssemblyInfo.cs
+C:\Users\fic\Desktop\GitHub\BackEnd - GitHub\CODE-XP---BackEnd\FaçaEnquanto\modelo\bin\Debug\netcoreapp2.2\modelo.deps.json
+C:\Users\fic\Desktop\GitHub\BackEnd - GitHub\CODE-XP---BackEnd\FaçaEnquanto\modelo\bin\Debug\netcoreapp2.2\modelo.runtimeconfig.json
+C:\Users\fic\Desktop\GitHub\BackEnd - GitHub\CODE-XP---BackEnd\FaçaEnquanto\modelo\bin\Debug\netcoreapp2.2\modelo.runtimeconfig.dev.json
+C:\Users\fic\Desktop\GitHub\BackEnd - GitHub\CODE-XP---BackEnd\FaçaEnquanto\modelo\bin\Debug\netcoreapp2.2\modelo.dll
+C:\Users\fic\Desktop\GitHub\BackEnd - GitHub\CODE-XP---BackEnd\FaçaEnquanto\modelo\bin\Debug\netcoreapp2.2\modelo.pdb
+C:\Users\fic\Desktop\GitHub\BackEnd - GitHub\CODE-XP---BackEnd\FaçaEnquanto\modelo\obj\Debug\netcoreapp2.2\modelo.dll
+C:\Users\fic\Desktop\GitHub\BackEnd - GitHub\CODE-XP---BackEnd\FaçaEnquanto\modelo\obj\Debug\netcoreapp2.2\modelo.pdb
+C:\Users\fic\Desktop\SENAI\C#\FaçaEnquanto\bin\Debug\netcoreapp2.2\modelo.deps.json
+C:\Users\fic\Desktop\SENAI\C#\FaçaEnquanto\bin\Debug\netcoreapp2.2\modelo.runtimeconfig.json
+C:\Users\fic\Desktop\SENAI\C#\FaçaEnquanto\bin\Debug\netcoreapp2.2\modelo.runtimeconfig.dev.json
+C:\Users\fic\Desktop\SENAI\C#\FaçaEnquanto\bin\Debug\netcoreapp2.2\modelo.dll
+C:\Users\fic\Desktop\SENAI\C#\FaçaEnquanto\bin\Debug\netcoreapp2.2\modelo.pdb
+C:\Users\fic\Desktop\SENAI\C#\FaçaEnquanto\obj\Debug\netcoreapp2.2\modelo.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\SENAI\C#\FaçaEnquanto\obj\Debug\netcoreapp2.2\modelo.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\SENAI\C#\FaçaEnquanto\obj\Debug\netcoreapp2.2\modelo.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\SENAI\C#\FaçaEnquanto\obj\Debug\netcoreapp2.2\modelo.AssemblyInfo.cs
+C:\Users\fic\Desktop\SENAI\C#\FaçaEnquanto\obj\Debug\netcoreapp2.2\modelo.dll
+C:\Users\fic\Desktop\SENAI\C#\FaçaEnquanto\obj\Debug\netcoreapp2.2\modelo.pdb
+C:\Users\fic\Desktop\SENAI\C#\Verificaçao de Login e Senha\bin\Debug\netcoreapp2.2\modelo.deps.json
+C:\Users\fic\Desktop\SENAI\C#\Verificaçao de Login e Senha\bin\Debug\netcoreapp2.2\modelo.runtimeconfig.json
+C:\Users\fic\Desktop\SENAI\C#\Verificaçao de Login e Senha\bin\Debug\netcoreapp2.2\modelo.runtimeconfig.dev.json
+C:\Users\fic\Desktop\SENAI\C#\Verificaçao de Login e Senha\bin\Debug\netcoreapp2.2\modelo.dll
+C:\Users\fic\Desktop\SENAI\C#\Verificaçao de Login e Senha\bin\Debug\netcoreapp2.2\modelo.pdb
+C:\Users\fic\Desktop\SENAI\C#\Verificaçao de Login e Senha\obj\Debug\netcoreapp2.2\modelo.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\SENAI\C#\Verificaçao de Login e Senha\obj\Debug\netcoreapp2.2\modelo.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\SENAI\C#\Verificaçao de Login e Senha\obj\Debug\netcoreapp2.2\modelo.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\SENAI\C#\Verificaçao de Login e Senha\obj\Debug\netcoreapp2.2\modelo.AssemblyInfo.cs
+C:\Users\fic\Desktop\SENAI\C#\Verificaçao de Login e Senha\obj\Debug\netcoreapp2.2\modelo.dll
+C:\Users\fic\Desktop\SENAI\C#\Verificaçao de Login e Senha\obj\Debug\netcoreapp2.2\modelo.pdb

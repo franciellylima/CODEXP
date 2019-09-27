@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\SENAI\C#\Aprendendo Funções\obj\Debug\netcoreapp2.2\Aprendendo Funções.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\SENAI\C#\Aprendendo Funções\obj\Debug\netcoreapp2.2\Aprendendo Funções.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\SENAI\C#\Aprendendo Funções\obj\Debug\netcoreapp2.2\Aprendendo Funções.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\SENAI\C#\Aprendendo Funções\obj\Debug\netcoreapp2.2\Aprendendo Funções.AssemblyInfo.cs
+C:\Users\fic\Desktop\SENAI\C#\Aprendendo Funções\bin\Debug\netcoreapp2.2\Aprendendo Funções.deps.json
+C:\Users\fic\Desktop\SENAI\C#\Aprendendo Funções\bin\Debug\netcoreapp2.2\Aprendendo Funções.runtimeconfig.json
+C:\Users\fic\Desktop\SENAI\C#\Aprendendo Funções\bin\Debug\netcoreapp2.2\Aprendendo Funções.runtimeconfig.dev.json
+C:\Users\fic\Desktop\SENAI\C#\Aprendendo Funções\bin\Debug\netcoreapp2.2\Aprendendo Funções.dll
+C:\Users\fic\Desktop\SENAI\C#\Aprendendo Funções\bin\Debug\netcoreapp2.2\Aprendendo Funções.pdb
+C:\Users\fic\Desktop\SENAI\C#\Aprendendo Funções\obj\Debug\netcoreapp2.2\Aprendendo Funções.dll
+C:\Users\fic\Desktop\SENAI\C#\Aprendendo Funções\obj\Debug\netcoreapp2.2\Aprendendo Funções.pdb

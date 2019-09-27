@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\SENAI\C#\Verificação Par ou Impar e Menor ou Maior\bin\Debug\netcoreapp2.2\Verificação Par ou Impar e Menor ou Maior.deps.json
+C:\Users\fic\Desktop\SENAI\C#\Verificação Par ou Impar e Menor ou Maior\bin\Debug\netcoreapp2.2\Verificação Par ou Impar e Menor ou Maior.runtimeconfig.json
+C:\Users\fic\Desktop\SENAI\C#\Verificação Par ou Impar e Menor ou Maior\bin\Debug\netcoreapp2.2\Verificação Par ou Impar e Menor ou Maior.runtimeconfig.dev.json
+C:\Users\fic\Desktop\SENAI\C#\Verificação Par ou Impar e Menor ou Maior\bin\Debug\netcoreapp2.2\Verificação Par ou Impar e Menor ou Maior.dll
+C:\Users\fic\Desktop\SENAI\C#\Verificação Par ou Impar e Menor ou Maior\bin\Debug\netcoreapp2.2\Verificação Par ou Impar e Menor ou Maior.pdb
+C:\Users\fic\Desktop\SENAI\C#\Verificação Par ou Impar e Menor ou Maior\obj\Debug\netcoreapp2.2\Verificação Par ou Impar e Menor ou Maior.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\SENAI\C#\Verificação Par ou Impar e Menor ou Maior\obj\Debug\netcoreapp2.2\Verificação Par ou Impar e Menor ou Maior.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\SENAI\C#\Verificação Par ou Impar e Menor ou Maior\obj\Debug\netcoreapp2.2\Verificação Par ou Impar e Menor ou Maior.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\SENAI\C#\Verificação Par ou Impar e Menor ou Maior\obj\Debug\netcoreapp2.2\Verificação Par ou Impar e Menor ou Maior.AssemblyInfo.cs
+C:\Users\fic\Desktop\SENAI\C#\Verificação Par ou Impar e Menor ou Maior\obj\Debug\netcoreapp2.2\Verificação Par ou Impar e Menor ou Maior.dll
+C:\Users\fic\Desktop\SENAI\C#\Verificação Par ou Impar e Menor ou Maior\obj\Debug\netcoreapp2.2\Verificação Par ou Impar e Menor ou Maior.pdb

@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\SENAI\C#\Verificaçao de Email\bin\Debug\netcoreapp2.2\Verificaçao de Email.deps.json
+C:\Users\fic\Desktop\SENAI\C#\Verificaçao de Email\bin\Debug\netcoreapp2.2\Verificaçao de Email.runtimeconfig.json
+C:\Users\fic\Desktop\SENAI\C#\Verificaçao de Email\bin\Debug\netcoreapp2.2\Verificaçao de Email.runtimeconfig.dev.json
+C:\Users\fic\Desktop\SENAI\C#\Verificaçao de Email\bin\Debug\netcoreapp2.2\Verificaçao de Email.dll
+C:\Users\fic\Desktop\SENAI\C#\Verificaçao de Email\bin\Debug\netcoreapp2.2\Verificaçao de Email.pdb
+C:\Users\fic\Desktop\SENAI\C#\Verificaçao de Email\obj\Debug\netcoreapp2.2\Verificaçao de Email.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\SENAI\C#\Verificaçao de Email\obj\Debug\netcoreapp2.2\Verificaçao de Email.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\SENAI\C#\Verificaçao de Email\obj\Debug\netcoreapp2.2\Verificaçao de Email.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\SENAI\C#\Verificaçao de Email\obj\Debug\netcoreapp2.2\Verificaçao de Email.AssemblyInfo.cs
+C:\Users\fic\Desktop\SENAI\C#\Verificaçao de Email\obj\Debug\netcoreapp2.2\Verificaçao de Email.dll
+C:\Users\fic\Desktop\SENAI\C#\Verificaçao de Email\obj\Debug\netcoreapp2.2\Verificaçao de Email.pdb

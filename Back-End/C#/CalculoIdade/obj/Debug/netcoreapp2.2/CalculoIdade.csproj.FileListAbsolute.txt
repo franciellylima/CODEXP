@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\C#\CalculoIdade\obj\Debug\netcoreapp2.2\CalculoIdade.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\C#\CalculoIdade\obj\Debug\netcoreapp2.2\CalculoIdade.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\C#\CalculoIdade\obj\Debug\netcoreapp2.2\CalculoIdade.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\C#\CalculoIdade\obj\Debug\netcoreapp2.2\CalculoIdade.AssemblyInfo.cs
+C:\Users\fic\Desktop\C#\CalculoIdade\bin\Debug\netcoreapp2.2\CalculoIdade.deps.json
+C:\Users\fic\Desktop\C#\CalculoIdade\bin\Debug\netcoreapp2.2\CalculoIdade.runtimeconfig.json
+C:\Users\fic\Desktop\C#\CalculoIdade\bin\Debug\netcoreapp2.2\CalculoIdade.runtimeconfig.dev.json
+C:\Users\fic\Desktop\C#\CalculoIdade\bin\Debug\netcoreapp2.2\CalculoIdade.dll
+C:\Users\fic\Desktop\C#\CalculoIdade\bin\Debug\netcoreapp2.2\CalculoIdade.pdb
+C:\Users\fic\Desktop\C#\CalculoIdade\obj\Debug\netcoreapp2.2\CalculoIdade.dll
+C:\Users\fic\Desktop\C#\CalculoIdade\obj\Debug\netcoreapp2.2\CalculoIdade.pdb

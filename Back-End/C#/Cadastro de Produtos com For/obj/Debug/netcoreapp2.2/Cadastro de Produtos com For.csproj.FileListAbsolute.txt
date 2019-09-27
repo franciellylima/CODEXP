@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\SENAI\C#\Cadastro de Produtos com For\obj\Debug\netcoreapp2.2\Cadastro de Produtos com For.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\SENAI\C#\Cadastro de Produtos com For\obj\Debug\netcoreapp2.2\Cadastro de Produtos com For.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\SENAI\C#\Cadastro de Produtos com For\obj\Debug\netcoreapp2.2\Cadastro de Produtos com For.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\SENAI\C#\Cadastro de Produtos com For\obj\Debug\netcoreapp2.2\Cadastro de Produtos com For.AssemblyInfo.cs
+C:\Users\fic\Desktop\SENAI\C#\Cadastro de Produtos com For\bin\Debug\netcoreapp2.2\Cadastro de Produtos com For.deps.json
+C:\Users\fic\Desktop\SENAI\C#\Cadastro de Produtos com For\bin\Debug\netcoreapp2.2\Cadastro de Produtos com For.runtimeconfig.json
+C:\Users\fic\Desktop\SENAI\C#\Cadastro de Produtos com For\bin\Debug\netcoreapp2.2\Cadastro de Produtos com For.runtimeconfig.dev.json
+C:\Users\fic\Desktop\SENAI\C#\Cadastro de Produtos com For\bin\Debug\netcoreapp2.2\Cadastro de Produtos com For.dll
+C:\Users\fic\Desktop\SENAI\C#\Cadastro de Produtos com For\bin\Debug\netcoreapp2.2\Cadastro de Produtos com For.pdb
+C:\Users\fic\Desktop\SENAI\C#\Cadastro de Produtos com For\obj\Debug\netcoreapp2.2\Cadastro de Produtos com For.dll
+C:\Users\fic\Desktop\SENAI\C#\Cadastro de Produtos com For\obj\Debug\netcoreapp2.2\Cadastro de Produtos com For.pdb

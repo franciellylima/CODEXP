@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\C#\Cálculo de média\bin\Debug\netcoreapp2.2\Cálculo de média.deps.json
+C:\Users\fic\Desktop\C#\Cálculo de média\bin\Debug\netcoreapp2.2\Cálculo de média.runtimeconfig.json
+C:\Users\fic\Desktop\C#\Cálculo de média\bin\Debug\netcoreapp2.2\Cálculo de média.runtimeconfig.dev.json
+C:\Users\fic\Desktop\C#\Cálculo de média\bin\Debug\netcoreapp2.2\Cálculo de média.dll
+C:\Users\fic\Desktop\C#\Cálculo de média\bin\Debug\netcoreapp2.2\Cálculo de média.pdb
+C:\Users\fic\Desktop\C#\Cálculo de média\obj\Debug\netcoreapp2.2\Cálculo de média.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\C#\Cálculo de média\obj\Debug\netcoreapp2.2\Cálculo de média.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\C#\Cálculo de média\obj\Debug\netcoreapp2.2\Cálculo de média.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\C#\Cálculo de média\obj\Debug\netcoreapp2.2\Cálculo de média.AssemblyInfo.cs
+C:\Users\fic\Desktop\C#\Cálculo de média\obj\Debug\netcoreapp2.2\Cálculo de média.dll
+C:\Users\fic\Desktop\C#\Cálculo de média\obj\Debug\netcoreapp2.2\Cálculo de média.pdb

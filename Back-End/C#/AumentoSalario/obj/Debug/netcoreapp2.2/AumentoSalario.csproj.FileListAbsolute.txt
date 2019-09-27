@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\C#\AumentoSalario\obj\Debug\netcoreapp2.2\AumentoSalario.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\C#\AumentoSalario\obj\Debug\netcoreapp2.2\AumentoSalario.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\C#\AumentoSalario\obj\Debug\netcoreapp2.2\AumentoSalario.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\C#\AumentoSalario\obj\Debug\netcoreapp2.2\AumentoSalario.AssemblyInfo.cs
+C:\Users\fic\Desktop\C#\AumentoSalario\bin\Debug\netcoreapp2.2\AumentoSalario.deps.json
+C:\Users\fic\Desktop\C#\AumentoSalario\bin\Debug\netcoreapp2.2\AumentoSalario.runtimeconfig.json
+C:\Users\fic\Desktop\C#\AumentoSalario\bin\Debug\netcoreapp2.2\AumentoSalario.runtimeconfig.dev.json
+C:\Users\fic\Desktop\C#\AumentoSalario\bin\Debug\netcoreapp2.2\AumentoSalario.dll
+C:\Users\fic\Desktop\C#\AumentoSalario\bin\Debug\netcoreapp2.2\AumentoSalario.pdb
+C:\Users\fic\Desktop\C#\AumentoSalario\obj\Debug\netcoreapp2.2\AumentoSalario.dll
+C:\Users\fic\Desktop\C#\AumentoSalario\obj\Debug\netcoreapp2.2\AumentoSalario.pdb

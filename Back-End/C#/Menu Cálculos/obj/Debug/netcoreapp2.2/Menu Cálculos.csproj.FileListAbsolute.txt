@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\SENAI\C#\Menu Cálculos\bin\Debug\netcoreapp2.2\Menu Cálculos.deps.json
+C:\Users\fic\Desktop\SENAI\C#\Menu Cálculos\bin\Debug\netcoreapp2.2\Menu Cálculos.runtimeconfig.json
+C:\Users\fic\Desktop\SENAI\C#\Menu Cálculos\bin\Debug\netcoreapp2.2\Menu Cálculos.runtimeconfig.dev.json
+C:\Users\fic\Desktop\SENAI\C#\Menu Cálculos\bin\Debug\netcoreapp2.2\Menu Cálculos.dll
+C:\Users\fic\Desktop\SENAI\C#\Menu Cálculos\bin\Debug\netcoreapp2.2\Menu Cálculos.pdb
+C:\Users\fic\Desktop\SENAI\C#\Menu Cálculos\obj\Debug\netcoreapp2.2\Menu Cálculos.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\SENAI\C#\Menu Cálculos\obj\Debug\netcoreapp2.2\Menu Cálculos.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\SENAI\C#\Menu Cálculos\obj\Debug\netcoreapp2.2\Menu Cálculos.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\SENAI\C#\Menu Cálculos\obj\Debug\netcoreapp2.2\Menu Cálculos.AssemblyInfo.cs
+C:\Users\fic\Desktop\SENAI\C#\Menu Cálculos\obj\Debug\netcoreapp2.2\Menu Cálculos.dll
+C:\Users\fic\Desktop\SENAI\C#\Menu Cálculos\obj\Debug\netcoreapp2.2\Menu Cálculos.pdb

@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\C#\mediaAritmetica\obj\Debug\netcoreapp2.2\mediaAritmetica.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\C#\mediaAritmetica\obj\Debug\netcoreapp2.2\mediaAritmetica.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\C#\mediaAritmetica\obj\Debug\netcoreapp2.2\mediaAritmetica.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\C#\mediaAritmetica\obj\Debug\netcoreapp2.2\mediaAritmetica.AssemblyInfo.cs
+C:\Users\fic\Desktop\C#\mediaAritmetica\bin\Debug\netcoreapp2.2\mediaAritmetica.deps.json
+C:\Users\fic\Desktop\C#\mediaAritmetica\bin\Debug\netcoreapp2.2\mediaAritmetica.runtimeconfig.json
+C:\Users\fic\Desktop\C#\mediaAritmetica\bin\Debug\netcoreapp2.2\mediaAritmetica.runtimeconfig.dev.json
+C:\Users\fic\Desktop\C#\mediaAritmetica\bin\Debug\netcoreapp2.2\mediaAritmetica.dll
+C:\Users\fic\Desktop\C#\mediaAritmetica\bin\Debug\netcoreapp2.2\mediaAritmetica.pdb
+C:\Users\fic\Desktop\C#\mediaAritmetica\obj\Debug\netcoreapp2.2\mediaAritmetica.dll
+C:\Users\fic\Desktop\C#\mediaAritmetica\obj\Debug\netcoreapp2.2\mediaAritmetica.pdb

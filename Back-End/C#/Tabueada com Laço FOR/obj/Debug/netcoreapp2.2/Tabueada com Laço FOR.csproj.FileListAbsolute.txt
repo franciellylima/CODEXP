@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\SENAI\C#\Tabueada com Laço FOR\bin\Debug\netcoreapp2.2\Tabueada com Laço FOR.deps.json
+C:\Users\fic\Desktop\SENAI\C#\Tabueada com Laço FOR\bin\Debug\netcoreapp2.2\Tabueada com Laço FOR.runtimeconfig.json
+C:\Users\fic\Desktop\SENAI\C#\Tabueada com Laço FOR\bin\Debug\netcoreapp2.2\Tabueada com Laço FOR.runtimeconfig.dev.json
+C:\Users\fic\Desktop\SENAI\C#\Tabueada com Laço FOR\bin\Debug\netcoreapp2.2\Tabueada com Laço FOR.dll
+C:\Users\fic\Desktop\SENAI\C#\Tabueada com Laço FOR\bin\Debug\netcoreapp2.2\Tabueada com Laço FOR.pdb
+C:\Users\fic\Desktop\SENAI\C#\Tabueada com Laço FOR\obj\Debug\netcoreapp2.2\Tabueada com Laço FOR.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\SENAI\C#\Tabueada com Laço FOR\obj\Debug\netcoreapp2.2\Tabueada com Laço FOR.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\SENAI\C#\Tabueada com Laço FOR\obj\Debug\netcoreapp2.2\Tabueada com Laço FOR.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\SENAI\C#\Tabueada com Laço FOR\obj\Debug\netcoreapp2.2\Tabueada com Laço FOR.AssemblyInfo.cs
+C:\Users\fic\Desktop\SENAI\C#\Tabueada com Laço FOR\obj\Debug\netcoreapp2.2\Tabueada com Laço FOR.dll
+C:\Users\fic\Desktop\SENAI\C#\Tabueada com Laço FOR\obj\Debug\netcoreapp2.2\Tabueada com Laço FOR.pdb

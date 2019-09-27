@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\SENAI\C#\Pessoas\obj\Debug\netcoreapp2.2\Cálculo IMC.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\SENAI\C#\Pessoas\obj\Debug\netcoreapp2.2\Cálculo IMC.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\SENAI\C#\Pessoas\obj\Debug\netcoreapp2.2\Cálculo IMC.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\SENAI\C#\Pessoas\obj\Debug\netcoreapp2.2\Cálculo IMC.AssemblyInfo.cs
+C:\Users\fic\Desktop\SENAI\C#\Pessoas\bin\Debug\netcoreapp2.2\Cálculo IMC.deps.json
+C:\Users\fic\Desktop\SENAI\C#\Pessoas\bin\Debug\netcoreapp2.2\Cálculo IMC.runtimeconfig.json
+C:\Users\fic\Desktop\SENAI\C#\Pessoas\bin\Debug\netcoreapp2.2\Cálculo IMC.runtimeconfig.dev.json
+C:\Users\fic\Desktop\SENAI\C#\Pessoas\bin\Debug\netcoreapp2.2\Cálculo IMC.dll
+C:\Users\fic\Desktop\SENAI\C#\Pessoas\bin\Debug\netcoreapp2.2\Cálculo IMC.pdb
+C:\Users\fic\Desktop\SENAI\C#\Pessoas\obj\Debug\netcoreapp2.2\Cálculo IMC.dll
+C:\Users\fic\Desktop\SENAI\C#\Pessoas\obj\Debug\netcoreapp2.2\Cálculo IMC.pdb

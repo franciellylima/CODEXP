@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\SENAI\C#\Cargos com Switch\bin\Debug\netcoreapp2.2\Cargos com Switch.deps.json
+C:\Users\fic\Desktop\SENAI\C#\Cargos com Switch\bin\Debug\netcoreapp2.2\Cargos com Switch.runtimeconfig.json
+C:\Users\fic\Desktop\SENAI\C#\Cargos com Switch\bin\Debug\netcoreapp2.2\Cargos com Switch.runtimeconfig.dev.json
+C:\Users\fic\Desktop\SENAI\C#\Cargos com Switch\bin\Debug\netcoreapp2.2\Cargos com Switch.dll
+C:\Users\fic\Desktop\SENAI\C#\Cargos com Switch\bin\Debug\netcoreapp2.2\Cargos com Switch.pdb
+C:\Users\fic\Desktop\SENAI\C#\Cargos com Switch\obj\Debug\netcoreapp2.2\Cargos com Switch.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\SENAI\C#\Cargos com Switch\obj\Debug\netcoreapp2.2\Cargos com Switch.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\SENAI\C#\Cargos com Switch\obj\Debug\netcoreapp2.2\Cargos com Switch.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\SENAI\C#\Cargos com Switch\obj\Debug\netcoreapp2.2\Cargos com Switch.AssemblyInfo.cs
+C:\Users\fic\Desktop\SENAI\C#\Cargos com Switch\obj\Debug\netcoreapp2.2\Cargos com Switch.dll
+C:\Users\fic\Desktop\SENAI\C#\Cargos com Switch\obj\Debug\netcoreapp2.2\Cargos com Switch.pdb

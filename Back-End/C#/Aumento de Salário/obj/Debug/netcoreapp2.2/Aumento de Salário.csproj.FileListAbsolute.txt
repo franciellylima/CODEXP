@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\SENAI\C#\Aumento de Salário\bin\Debug\netcoreapp2.2\Aumento de Salário.deps.json
+C:\Users\fic\Desktop\SENAI\C#\Aumento de Salário\bin\Debug\netcoreapp2.2\Aumento de Salário.runtimeconfig.json
+C:\Users\fic\Desktop\SENAI\C#\Aumento de Salário\bin\Debug\netcoreapp2.2\Aumento de Salário.runtimeconfig.dev.json
+C:\Users\fic\Desktop\SENAI\C#\Aumento de Salário\bin\Debug\netcoreapp2.2\Aumento de Salário.dll
+C:\Users\fic\Desktop\SENAI\C#\Aumento de Salário\bin\Debug\netcoreapp2.2\Aumento de Salário.pdb
+C:\Users\fic\Desktop\SENAI\C#\Aumento de Salário\obj\Debug\netcoreapp2.2\Aumento de Salário.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\SENAI\C#\Aumento de Salário\obj\Debug\netcoreapp2.2\Aumento de Salário.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\SENAI\C#\Aumento de Salário\obj\Debug\netcoreapp2.2\Aumento de Salário.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\SENAI\C#\Aumento de Salário\obj\Debug\netcoreapp2.2\Aumento de Salário.AssemblyInfo.cs
+C:\Users\fic\Desktop\SENAI\C#\Aumento de Salário\obj\Debug\netcoreapp2.2\Aumento de Salário.dll
+C:\Users\fic\Desktop\SENAI\C#\Aumento de Salário\obj\Debug\netcoreapp2.2\Aumento de Salário.pdb

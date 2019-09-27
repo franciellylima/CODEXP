@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\SENAI\C#\Escadinha\bin\Debug\netcoreapp2.2\Escadinha.deps.json
+C:\Users\fic\Desktop\SENAI\C#\Escadinha\bin\Debug\netcoreapp2.2\Escadinha.runtimeconfig.json
+C:\Users\fic\Desktop\SENAI\C#\Escadinha\bin\Debug\netcoreapp2.2\Escadinha.runtimeconfig.dev.json
+C:\Users\fic\Desktop\SENAI\C#\Escadinha\bin\Debug\netcoreapp2.2\Escadinha.dll
+C:\Users\fic\Desktop\SENAI\C#\Escadinha\bin\Debug\netcoreapp2.2\Escadinha.pdb
+C:\Users\fic\Desktop\SENAI\C#\Escadinha\obj\Debug\netcoreapp2.2\Escadinha.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\SENAI\C#\Escadinha\obj\Debug\netcoreapp2.2\Escadinha.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\SENAI\C#\Escadinha\obj\Debug\netcoreapp2.2\Escadinha.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\SENAI\C#\Escadinha\obj\Debug\netcoreapp2.2\Escadinha.AssemblyInfo.cs
+C:\Users\fic\Desktop\SENAI\C#\Escadinha\obj\Debug\netcoreapp2.2\Escadinha.dll
+C:\Users\fic\Desktop\SENAI\C#\Escadinha\obj\Debug\netcoreapp2.2\Escadinha.pdb

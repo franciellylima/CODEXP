@@ -1,0 +1,22 @@
+C:\Users\fic\Desktop\SENAI\C#\Laço While\bin\Debug\netcoreapp2.2\Laço While.deps.json
+C:\Users\fic\Desktop\SENAI\C#\Laço While\bin\Debug\netcoreapp2.2\Laço While.runtimeconfig.json
+C:\Users\fic\Desktop\SENAI\C#\Laço While\bin\Debug\netcoreapp2.2\Laço While.runtimeconfig.dev.json
+C:\Users\fic\Desktop\SENAI\C#\Laço While\bin\Debug\netcoreapp2.2\Laço While.dll
+C:\Users\fic\Desktop\SENAI\C#\Laço While\bin\Debug\netcoreapp2.2\Laço While.pdb
+C:\Users\fic\Desktop\SENAI\C#\Laço While\obj\Debug\netcoreapp2.2\Laço While.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\SENAI\C#\Laço While\obj\Debug\netcoreapp2.2\Laço While.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\SENAI\C#\Laço While\obj\Debug\netcoreapp2.2\Laço While.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\SENAI\C#\Laço While\obj\Debug\netcoreapp2.2\Laço While.AssemblyInfo.cs
+C:\Users\fic\Desktop\SENAI\C#\Laço While\obj\Debug\netcoreapp2.2\Laço While.dll
+C:\Users\fic\Desktop\SENAI\C#\Laço While\obj\Debug\netcoreapp2.2\Laço While.pdb
+C:\Users\fic\Desktop\SENAI\C#\Laço While com Arrays\obj\Debug\netcoreapp2.2\Laço While.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\SENAI\C#\Laço While com Arrays\obj\Debug\netcoreapp2.2\Laço While.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\SENAI\C#\Laço While com Arrays\obj\Debug\netcoreapp2.2\Laço While.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\SENAI\C#\Laço While com Arrays\obj\Debug\netcoreapp2.2\Laço While.AssemblyInfo.cs
+C:\Users\fic\Desktop\SENAI\C#\Laço While com Arrays\obj\Debug\netcoreapp2.2\Laço While.dll
+C:\Users\fic\Desktop\SENAI\C#\Laço While com Arrays\obj\Debug\netcoreapp2.2\Laço While.pdb
+C:\Users\fic\Desktop\SENAI\C#\Laço While com Arrays\bin\Debug\netcoreapp2.2\Laço While.deps.json
+C:\Users\fic\Desktop\SENAI\C#\Laço While com Arrays\bin\Debug\netcoreapp2.2\Laço While.runtimeconfig.json
+C:\Users\fic\Desktop\SENAI\C#\Laço While com Arrays\bin\Debug\netcoreapp2.2\Laço While.runtimeconfig.dev.json
+C:\Users\fic\Desktop\SENAI\C#\Laço While com Arrays\bin\Debug\netcoreapp2.2\Laço While.dll
+C:\Users\fic\Desktop\SENAI\C#\Laço While com Arrays\bin\Debug\netcoreapp2.2\Laço While.pdb

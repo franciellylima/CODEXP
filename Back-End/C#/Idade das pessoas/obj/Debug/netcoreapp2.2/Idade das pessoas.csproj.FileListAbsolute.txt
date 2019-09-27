@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\SENAI\C#\Idade das pessoas\obj\Debug\netcoreapp2.2\Idade das pessoas.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\SENAI\C#\Idade das pessoas\obj\Debug\netcoreapp2.2\Idade das pessoas.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\SENAI\C#\Idade das pessoas\obj\Debug\netcoreapp2.2\Idade das pessoas.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\SENAI\C#\Idade das pessoas\obj\Debug\netcoreapp2.2\Idade das pessoas.AssemblyInfo.cs
+C:\Users\fic\Desktop\SENAI\C#\Idade das pessoas\bin\Debug\netcoreapp2.2\Idade das pessoas.deps.json
+C:\Users\fic\Desktop\SENAI\C#\Idade das pessoas\bin\Debug\netcoreapp2.2\Idade das pessoas.runtimeconfig.json
+C:\Users\fic\Desktop\SENAI\C#\Idade das pessoas\bin\Debug\netcoreapp2.2\Idade das pessoas.runtimeconfig.dev.json
+C:\Users\fic\Desktop\SENAI\C#\Idade das pessoas\bin\Debug\netcoreapp2.2\Idade das pessoas.dll
+C:\Users\fic\Desktop\SENAI\C#\Idade das pessoas\bin\Debug\netcoreapp2.2\Idade das pessoas.pdb
+C:\Users\fic\Desktop\SENAI\C#\Idade das pessoas\obj\Debug\netcoreapp2.2\Idade das pessoas.dll
+C:\Users\fic\Desktop\SENAI\C#\Idade das pessoas\obj\Debug\netcoreapp2.2\Idade das pessoas.pdb

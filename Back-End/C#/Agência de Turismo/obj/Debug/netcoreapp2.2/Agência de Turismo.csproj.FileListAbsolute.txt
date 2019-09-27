@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\SENAI\C#\Agência de Turismo\obj\Debug\netcoreapp2.2\Agência de Turismo.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\SENAI\C#\Agência de Turismo\obj\Debug\netcoreapp2.2\Agência de Turismo.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\SENAI\C#\Agência de Turismo\obj\Debug\netcoreapp2.2\Agência de Turismo.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\SENAI\C#\Agência de Turismo\obj\Debug\netcoreapp2.2\Agência de Turismo.AssemblyInfo.cs
+C:\Users\fic\Desktop\SENAI\C#\Agência de Turismo\bin\Debug\netcoreapp2.2\Agência de Turismo.deps.json
+C:\Users\fic\Desktop\SENAI\C#\Agência de Turismo\bin\Debug\netcoreapp2.2\Agência de Turismo.runtimeconfig.json
+C:\Users\fic\Desktop\SENAI\C#\Agência de Turismo\bin\Debug\netcoreapp2.2\Agência de Turismo.runtimeconfig.dev.json
+C:\Users\fic\Desktop\SENAI\C#\Agência de Turismo\bin\Debug\netcoreapp2.2\Agência de Turismo.dll
+C:\Users\fic\Desktop\SENAI\C#\Agência de Turismo\bin\Debug\netcoreapp2.2\Agência de Turismo.pdb
+C:\Users\fic\Desktop\SENAI\C#\Agência de Turismo\obj\Debug\netcoreapp2.2\Agência de Turismo.dll
+C:\Users\fic\Desktop\SENAI\C#\Agência de Turismo\obj\Debug\netcoreapp2.2\Agência de Turismo.pdb

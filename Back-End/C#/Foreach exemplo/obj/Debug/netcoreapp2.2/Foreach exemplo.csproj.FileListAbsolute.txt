@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\SENAI\C#\Foreach exemplo\bin\Debug\netcoreapp2.2\Foreach exemplo.deps.json
+C:\Users\fic\Desktop\SENAI\C#\Foreach exemplo\bin\Debug\netcoreapp2.2\Foreach exemplo.runtimeconfig.json
+C:\Users\fic\Desktop\SENAI\C#\Foreach exemplo\bin\Debug\netcoreapp2.2\Foreach exemplo.runtimeconfig.dev.json
+C:\Users\fic\Desktop\SENAI\C#\Foreach exemplo\bin\Debug\netcoreapp2.2\Foreach exemplo.dll
+C:\Users\fic\Desktop\SENAI\C#\Foreach exemplo\bin\Debug\netcoreapp2.2\Foreach exemplo.pdb
+C:\Users\fic\Desktop\SENAI\C#\Foreach exemplo\obj\Debug\netcoreapp2.2\Foreach exemplo.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\SENAI\C#\Foreach exemplo\obj\Debug\netcoreapp2.2\Foreach exemplo.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\SENAI\C#\Foreach exemplo\obj\Debug\netcoreapp2.2\Foreach exemplo.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\SENAI\C#\Foreach exemplo\obj\Debug\netcoreapp2.2\Foreach exemplo.AssemblyInfo.cs
+C:\Users\fic\Desktop\SENAI\C#\Foreach exemplo\obj\Debug\netcoreapp2.2\Foreach exemplo.dll
+C:\Users\fic\Desktop\SENAI\C#\Foreach exemplo\obj\Debug\netcoreapp2.2\Foreach exemplo.pdb

@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\C#\idadeNadador\bin\Debug\netcoreapp2.2\idadeNadador.deps.json
+C:\Users\fic\Desktop\C#\idadeNadador\bin\Debug\netcoreapp2.2\idadeNadador.runtimeconfig.json
+C:\Users\fic\Desktop\C#\idadeNadador\bin\Debug\netcoreapp2.2\idadeNadador.runtimeconfig.dev.json
+C:\Users\fic\Desktop\C#\idadeNadador\bin\Debug\netcoreapp2.2\idadeNadador.dll
+C:\Users\fic\Desktop\C#\idadeNadador\bin\Debug\netcoreapp2.2\idadeNadador.pdb
+C:\Users\fic\Desktop\C#\idadeNadador\obj\Debug\netcoreapp2.2\idadeNadador.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\C#\idadeNadador\obj\Debug\netcoreapp2.2\idadeNadador.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\C#\idadeNadador\obj\Debug\netcoreapp2.2\idadeNadador.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\C#\idadeNadador\obj\Debug\netcoreapp2.2\idadeNadador.AssemblyInfo.cs
+C:\Users\fic\Desktop\C#\idadeNadador\obj\Debug\netcoreapp2.2\idadeNadador.dll
+C:\Users\fic\Desktop\C#\idadeNadador\obj\Debug\netcoreapp2.2\idadeNadador.pdb

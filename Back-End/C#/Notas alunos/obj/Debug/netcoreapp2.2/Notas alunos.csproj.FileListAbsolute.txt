@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\SENAI\C#\Notas alunos\bin\Debug\netcoreapp2.2\Notas alunos.deps.json
+C:\Users\fic\Desktop\SENAI\C#\Notas alunos\bin\Debug\netcoreapp2.2\Notas alunos.runtimeconfig.json
+C:\Users\fic\Desktop\SENAI\C#\Notas alunos\bin\Debug\netcoreapp2.2\Notas alunos.runtimeconfig.dev.json
+C:\Users\fic\Desktop\SENAI\C#\Notas alunos\bin\Debug\netcoreapp2.2\Notas alunos.dll
+C:\Users\fic\Desktop\SENAI\C#\Notas alunos\bin\Debug\netcoreapp2.2\Notas alunos.pdb
+C:\Users\fic\Desktop\SENAI\C#\Notas alunos\obj\Debug\netcoreapp2.2\Notas alunos.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\SENAI\C#\Notas alunos\obj\Debug\netcoreapp2.2\Notas alunos.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\SENAI\C#\Notas alunos\obj\Debug\netcoreapp2.2\Notas alunos.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\SENAI\C#\Notas alunos\obj\Debug\netcoreapp2.2\Notas alunos.AssemblyInfo.cs
+C:\Users\fic\Desktop\SENAI\C#\Notas alunos\obj\Debug\netcoreapp2.2\Notas alunos.dll
+C:\Users\fic\Desktop\SENAI\C#\Notas alunos\obj\Debug\netcoreapp2.2\Notas alunos.pdb

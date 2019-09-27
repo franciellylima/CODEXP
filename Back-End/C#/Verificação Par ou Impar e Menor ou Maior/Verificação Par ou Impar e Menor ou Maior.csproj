@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <RootNamespace>Verificação_Par_ou_Impar_e_Menor_ou_Maior</RootNamespace>
+  </PropertyGroup>
+
+</Project>

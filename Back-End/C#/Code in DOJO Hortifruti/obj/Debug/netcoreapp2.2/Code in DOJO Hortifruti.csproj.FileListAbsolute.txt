@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\SENAI\C#\Code in DOJO Hortifruti\obj\Debug\netcoreapp2.2\Code in DOJO Hortifruti.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\SENAI\C#\Code in DOJO Hortifruti\obj\Debug\netcoreapp2.2\Code in DOJO Hortifruti.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\SENAI\C#\Code in DOJO Hortifruti\obj\Debug\netcoreapp2.2\Code in DOJO Hortifruti.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\SENAI\C#\Code in DOJO Hortifruti\obj\Debug\netcoreapp2.2\Code in DOJO Hortifruti.AssemblyInfo.cs
+C:\Users\fic\Desktop\SENAI\C#\Code in DOJO Hortifruti\bin\Debug\netcoreapp2.2\Code in DOJO Hortifruti.deps.json
+C:\Users\fic\Desktop\SENAI\C#\Code in DOJO Hortifruti\bin\Debug\netcoreapp2.2\Code in DOJO Hortifruti.runtimeconfig.json
+C:\Users\fic\Desktop\SENAI\C#\Code in DOJO Hortifruti\bin\Debug\netcoreapp2.2\Code in DOJO Hortifruti.runtimeconfig.dev.json
+C:\Users\fic\Desktop\SENAI\C#\Code in DOJO Hortifruti\bin\Debug\netcoreapp2.2\Code in DOJO Hortifruti.dll
+C:\Users\fic\Desktop\SENAI\C#\Code in DOJO Hortifruti\bin\Debug\netcoreapp2.2\Code in DOJO Hortifruti.pdb
+C:\Users\fic\Desktop\SENAI\C#\Code in DOJO Hortifruti\obj\Debug\netcoreapp2.2\Code in DOJO Hortifruti.dll
+C:\Users\fic\Desktop\SENAI\C#\Code in DOJO Hortifruti\obj\Debug\netcoreapp2.2\Code in DOJO Hortifruti.pdb

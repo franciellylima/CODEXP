@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\SENAI\C#\Calculo média e faltas\obj\Debug\netcoreapp2.2\Calculo médias e faltas.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\SENAI\C#\Calculo média e faltas\obj\Debug\netcoreapp2.2\Calculo médias e faltas.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\SENAI\C#\Calculo média e faltas\obj\Debug\netcoreapp2.2\Calculo médias e faltas.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\SENAI\C#\Calculo média e faltas\obj\Debug\netcoreapp2.2\Calculo médias e faltas.AssemblyInfo.cs
+C:\Users\fic\Desktop\SENAI\C#\Calculo média e faltas\bin\Debug\netcoreapp2.2\Calculo médias e faltas.deps.json
+C:\Users\fic\Desktop\SENAI\C#\Calculo média e faltas\bin\Debug\netcoreapp2.2\Calculo médias e faltas.runtimeconfig.json
+C:\Users\fic\Desktop\SENAI\C#\Calculo média e faltas\bin\Debug\netcoreapp2.2\Calculo médias e faltas.runtimeconfig.dev.json
+C:\Users\fic\Desktop\SENAI\C#\Calculo média e faltas\bin\Debug\netcoreapp2.2\Calculo médias e faltas.dll
+C:\Users\fic\Desktop\SENAI\C#\Calculo média e faltas\bin\Debug\netcoreapp2.2\Calculo médias e faltas.pdb
+C:\Users\fic\Desktop\SENAI\C#\Calculo média e faltas\obj\Debug\netcoreapp2.2\Calculo médias e faltas.dll
+C:\Users\fic\Desktop\SENAI\C#\Calculo média e faltas\obj\Debug\netcoreapp2.2\Calculo médias e faltas.pdb
